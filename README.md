@@ -65,7 +65,7 @@ The dataset contains customer-level information including:
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshot here)
+![Global E-Commerce Customer Analytics Dashboard](Dashboard.png)
 
 ---
 
